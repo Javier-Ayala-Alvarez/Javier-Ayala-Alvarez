@@ -6,8 +6,8 @@
 </head>
 <body>
 	<header>
-		<h1>Hola,👋 soy Javier Ayala, gracias por visitar mis repositorio. </h1>
-		<p>Soy un apasionado de la tecnología, me encanta investigar y comparto con ustedes todos mis proyectos.</p>
+		<h1>Hola!!. Soy Javier Ayala, gracias por visitar github. </h1>
+		<p>Soy un apasionado de la tecnología actualmente estudiante de ingenieria de sistema, me encanta investigar sobre las nuevas tecnologias y las           			actualizaciones de las que ya conozco, mi lenguaje favorito es JAVA. Comparto con ustedes todos mis proyectos.</p>
         <p align="left">Te dejo mi gmail: <a href="mailto:franciscojavier20002017@gmail.com"> franciscojavier20002017@gmail.com</p>
 	<p align="left">
 	<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <!-- Imagen de Java -->
