@@ -7,8 +7,8 @@
 <body>
 	<header>
 		<h1>Hola!!. Soy Javier Ayala, gracias por visitar github. </h1>
-		<p>Soy un apasionado de la tecnología actualmente estudiante de ingenieria de sistema, me encanta investigar sobre las nuevas tecnologias y las           			actualizaciones de las que ya conozco, mi lenguaje favorito es JAVA. Comparto con ustedes todos mis proyectos.</p>
-        <p align="left">Te dejo mi correp: <a href="mailto:franciscojavier20002017@gmail.com"> franciscojavier20002017@gmail.com</p>
+		<p>Soy un apasionado de la tecnología actualmente estudiante de ingenieria de sistema, me encanta investigar sobre las nuevas tecnologias y las           			actualizaciones de las que ya conozco, mi lenguaje favorito es JAVA. Comparto con ustedes algunos mis proyectos.</p>
+        <p align="left">Te dejo mi correo: <a href="mailto:franciscojavier20002017@gmail.com"> franciscojavier20002017@gmail.com</p>
         <p align="left">Te dejo mi linkedin: <a href="mailto:in/javier-ayala-9a4a84237"> Javier Ayala</p>
 	<p align="left">
 		<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <!-- Imagen de Java -->
