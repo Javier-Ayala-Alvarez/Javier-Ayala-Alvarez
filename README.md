@@ -16,6 +16,7 @@
 			<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <!-- Imagen de MySQL -->
 			<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/> <!-- Imagen de SQL Server -->
 			<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> <!-- Imagen de PostgreSQL -->
+		</p>
 	</header>
 </body>
 </html>
